@@ -1,4 +1,4 @@
-# AWS VPC Web Server + S3 Backup Automation
+# Secure AWS VPC Architecture with EC2 Web Server & Automated S3 Backups
 
 ## 🎯 Objective
 
